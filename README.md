@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pesuing bachelors in technology in IT stream and completed my diploma in Computer technology .<br>I am looking to collaborate on open source projects and specially in Java Based projects.I can also work on javascript based projects.<br>I am currently learning Data Structures and Algorithms.Also exploring java full stack development.<br>You can ask me about Projects based on Java , Spring Boot.<br>
+I am currently persuing Bachelors in Technology in IT stream and completed my diploma in Computer technology .<br>I am looking to collaborate on open source projects and specially in Java Based projects.I can also work on javascript based projects.<br>I am currently learning Data Structures and Algorithms.Also exploring java full stack development.<br>You can ask me about Projects based on Java , Spring Boot.<br>
 
 
 ## 🌐 Socials:

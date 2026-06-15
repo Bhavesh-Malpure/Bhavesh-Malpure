@@ -65,8 +65,6 @@ I am currently pursuing a **Bachelor's in Technology (IT)** and have completed m
 ---
 
 ## 📊 GitHub Stats
-## [![GitHub Streak]
-(https://streak-stats.demolab.com/?user=Bhavesh-Malpure)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Malpure&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />

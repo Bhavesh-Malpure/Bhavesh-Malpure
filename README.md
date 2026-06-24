@@ -5,7 +5,7 @@ I am currently pursuing a **Bachelor's in Technology (IT)** and have completed m
 - 🤝 Looking to collaborate on **open source projects**, especially **Java-based projects**
 - 💻 Can also work on **JavaScript-based projects**
 - 📚 Currently learning **Data Structures and Algorithms**
-- 🔭 Exploring **Java Full Stack Development**
+- 🔭 Exploring **MERN Ful stack and Java Full Stack Development with AI**
 - 💬 Ask me about **Java**, **Spring Boot**
 
 ---

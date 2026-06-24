@@ -2,11 +2,11 @@
 
 I am currently pursuing a **Bachelor's in Technology (IT)** and have completed my **Diploma in Computer Technology**.
 
-- 🤝 Looking to collaborate on **open source projects**, especially **Java-based projects**
+- 🤝 Looking to collaborate on **open source projects**, especially **Java and MERN-based projects**
 - 💻 Can also work on **JavaScript-based projects**
 - 📚 Currently learning **Data Structures and Algorithms**
 - 🔭 Exploring **MERN Ful stack and Java Full Stack Development with AI**
-- 💬 Ask me about **Java**, **Spring Boot**
+- 💬 Ask me about **Java**, **Spring Boot** , **MERN STACK**
 
 ---
 
